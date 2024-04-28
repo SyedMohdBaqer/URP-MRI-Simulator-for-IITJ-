@@ -18,7 +18,7 @@ namespace Samples.Whisper
         private AudioClip clip;
         private bool isRecording;
         private float time;
-        private OpenAIApi openai = new OpenAIApi("sk-proj-oqD4RCPUAFtXJCx8ye2QT3BlbkFJwS6GMDk7btVDHg1tVGzZ");
+        private OpenAIApi openai = new OpenAIApi("yOur-ApIKeY-heRe");
 
         private void Start()
         {
